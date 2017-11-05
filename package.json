@@ -1,0 +1,23 @@
+{
+  "name": "bunq-api-experiments",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "bunq-api": "^1.0.5",
+    "file-system": "^2.2.2",
+    "fs-extra": "^4.0.2",
+    "iban": "0.0.8",
+    "meteor-node-stubs": "^0.3.2",
+    "minimist": "^1.2.0",
+    "moment": "^2.19.1",
+    "node-datetime": "^2.0.3",
+    "node-rsa": "^0.4.2",
+    "randomstring": "^1.1.5",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "restify": "^6.3.1"
+  }
+}
