@@ -5,5 +5,5 @@ Meteor.startup(() => {
 });
 
 import '../imports/server/requestUser.ts';
-import '../imports/server/requestPayments.ts';
+// import '../imports/server/requestPayments.ts';
 // import '../imports/server/sendPayments.ts';
